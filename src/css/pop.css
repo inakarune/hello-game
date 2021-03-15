@@ -1,0 +1,13 @@
+.pop-back {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    top: 0px;
+}
+.pop-back .pop-contents {
+    background-color: white;
+    width: 40vw;
+    padding: 20px;
+    margin: 100px auto;
+}
