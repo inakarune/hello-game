@@ -1,0 +1,39 @@
+{
+    "list": [
+        {
+            "top": "0px",
+            "left": "0px",
+            "type": "self"
+        },
+        {
+            "top": "0px",
+            "left": "0px",
+            "type": "communication"
+        },
+        {
+            "top": "0px",
+            "left": "0px",
+            "type": "happiness"
+        },
+        {
+            "top": "0px",
+            "left": "0px",
+            "type": "self"
+        },
+        {
+            "top": "0px",
+            "left": "0px",
+            "type": "wisdom"
+        },
+        {
+            "top": "0px",
+            "left": "0px",
+            "type": "happiness"
+        },
+        {
+            "top": "0px",
+            "left": "0px",
+            "type": "self"
+        }
+    ]
+}

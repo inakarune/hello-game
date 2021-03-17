@@ -10,6 +10,11 @@ export default {
   name: 'App',
   components: {
 
+  },
+  created() {
+    window.addEventListener('beforeunload', () => {
+      this.$socket.emit('disconnect', { name: 'ttt' });
+    });
   }
 }
 </script>
@@ -21,5 +26,8 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+}
+ul {
+	list-style-type: none;
 }
 </style>

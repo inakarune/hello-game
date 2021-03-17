@@ -1,40 +1,202 @@
 {
     "list": [
         {
-            "top": "859px",
-            "left": "0px"
+            "top": "0px",
+            "left": "0px",
+            "type": "self"
         },
         {
             "top": "-750px",
-            "left": "0px"
+            "left": "0px",
+            "type": "communication"
         },
         {
             "top": "-650px",
-            "left": "0px"
+            "left": "0px",
+            "type": "happiness"
         },
         {
             "top": "-550px",
-            "left": "0px"
+            "left": "0px",
+            "type": "self"
         },
         {
             "top": "-450px",
-            "left": "0px"
+            "left": "0px",
+            "type": "wisdom"
         },
         {
             "top": "-350px",
-            "left": "0px"
+            "left": "0px",
+            "type": "happiness"
         },
         {
             "top": "-250px",
-            "left": "0px"
+            "left": "0px",
+            "type": "self"
         },
         {
             "top": "-150px",
-            "left": "0px"
+            "left": "0px",
+            "type": "wisdom"
         },
         {
             "top": "-859px",
-            "left": "0px"
+            "left": "0px",
+            "type": "back to the start"
+        },
+        {
+            "type": "happiness"
+        },
+        {
+            "type": "self"
+        },
+        {
+            "type": "communication"
+        },
+        {
+            "type": "happiness"
+        },
+        {
+            "type": "self"
+        },
+        {
+            "type": "wisdom"
+        },
+        {
+            "type": "communication index + 3"
+        },
+        {
+            "type": "self"
+        },
+        {
+            "type": "communication"
+        },
+        {
+            "type": "happiness"
+        },
+        {
+            "type": "communication"
+        },
+        {
+            "type": "self"
+        },
+        {
+            "type": "wisdom"
+        },
+        {
+            "type": "communication"
+        },
+        {
+            "type": "wisdom"
+        },
+        {
+            "type": "self-control index +3"
+        },
+        {
+            "type": "happiness"
+        },
+        {
+            "type": "communication"
+        },
+        {
+            "type": "self"
+        },
+        {
+            "type": "wisdom"
+        },
+        {
+            "type": "happiness"
+        },
+        {
+            "type": "communication"
+        },
+        {
+            "type": "go the heart shelter"
+        },
+        {
+            "type": "self"
+        },
+        {
+            "type": "wisdom"
+        },
+        {
+            "type": "happiness index +3"
+        },
+        {
+            "type": "self"
+        },
+        {
+            "type": "communication"
+        },
+        {
+            "type": "wisdom"
+        },
+        {
+            "type": "happiness"
+        },
+        {
+            "type": "self"
+        },
+        {
+            "type": "happiness"
+        },
+        {
+            "type": "self"
+        },
+        {
+            "type": "wisdom"
+        },
+        {
+            "type": "commuication"
+        },
+        {
+            "type": "wisdom"
+        },
+        {
+            "type": "happiness"
+        },
+        {
+            "type": "wisdom"
+        },
+        {
+            "type": "happiness"
+        },
+        {
+            "type": "communication"
+        },
+        {
+            "type": "wisdom"
+        },
+        {
+            "type": "communication"
+        },
+        {
+            "type": "self"
+        },
+        {
+            "type": "wisdom index +3"
+        },
+        {
+            "type": "happiness"
+        },
+        {
+            "type": "self"
+        },
+        {
+            "type": "happiness"
+        },
+        {
+            "type": "wisdom"
+        },
+        {
+            "type": "commuication"
+        },
+        {
+            "type": "happiness"
+        },
+        {
+            "type": "end"
         }
     ]
 }
