@@ -42,6 +42,13 @@ export default {
             chat: ''
         };
     },
+    // beforeRouteLeave (to, from, next) {
+    //     if (confirm('게임을 안하실 건가요?')) {
+    //         next();
+    //     } else {
+    //         next(false);
+    //     }
+    // },
     created() {
         this.$socket.emit('enter_user', { room: this.$route.params.room, name: this.$store.state.user.userID });
         this.$socket.on('enter_user', (data) => {console.log('enter_user', data);
@@ -50,8 +57,17 @@ export default {
         this.$socket.on('msg', (data) => {
             this.msgList.push(data.name + ' : ' + data.txt);
         });
-        this.$socket.on('start', (data) => {
-            console.log(data);
+        this.$socket.on('start', (data) => {console.log(data)
+            
+        });
+        this.$socket.on('my_turn', (data) => {console.log(data)
+
+        });
+        this.$socket.on('mission', (data) => {console.log(data)
+
+        });
+        this.$socket.on('end', (data) => {console.log(data)
+
         });
     },
     methods: {
